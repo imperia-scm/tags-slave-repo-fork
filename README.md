@@ -16,3 +16,4 @@ The Master workflow checks out the selected commit on its own runner and execute
 `npm ci` followed by `npm test`.
 
 release 1.0 a tope con la cope
+release 1.0.1 a tope con la cope
